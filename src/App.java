@@ -49,7 +49,7 @@ public class App {
             teclado.nextLine();  // Limpa o buffer
         }
         System.out.println();
-        System.out.println("Obrigado pelo jogo! Até a próxima!");
+        System.out.println("Obrigado por jogar! Foi divertido ter você aqui. Até a próxima partida!");
 
         teclado.close();
     }
